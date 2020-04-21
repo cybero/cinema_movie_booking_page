@@ -104,3 +104,5 @@ refreshPage.addEventListener("click", function(event) {
 
 //Initial count and total set
 updateSelectedCount();
+
+//Made by Cybero 2020
